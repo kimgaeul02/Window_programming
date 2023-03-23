@@ -3,7 +3,7 @@
 
 #include "pch.h"
 #include "framework.h"
-#include "Console3.h"
+#include "CRect_class.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
